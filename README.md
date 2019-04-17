@@ -1,0 +1,2 @@
+# logaction
+Personal log utility.
